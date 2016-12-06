@@ -1,0 +1,11 @@
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\bin\Debug\vb_lab_6_graphic.exe.config
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\bin\Debug\vb_lab_6_graphic.exe
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\bin\Debug\vb_lab_6_graphic.pdb
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\bin\Debug\vb_lab_6_graphic.xml
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.vbprojResolveAssemblyReference.cache
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.Form1.resources
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.Resources.resources
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.vbproj.GenerateResource.Cache
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.exe
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.xml
+E:\mathfuck\вба\vb_lab_6_graphic\vb_lab_6_graphic\obj\Debug\vb_lab_6_graphic.pdb
